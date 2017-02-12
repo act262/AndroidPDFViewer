@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ITextPdf</string>
+    <string name="select_pdf_file">选择pdf文件</string>
+</resources>
